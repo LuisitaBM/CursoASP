@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="ClankyProyectoAPI/ClankyProyectoAPI.csproj" />
+  <Project Path="ProyectoCursoAPI.Application/ProyectoCursoAPI.Application.csproj" Id="a8d94527-b681-4dd8-9abc-f45721b9f840" />
+  <Project Path="ProyectoCursoAPI.Domain/ProyectoCursoAPI.Domain.csproj" Id="b593b5be-6f26-40a7-8225-94e6f9df65cd" />
+  <Project Path="ProyectoCursoAPI.Infrastructure/ProyectoCursoAPI.Infrastructure.csproj" Id="7e162c5e-61ce-419c-a8ad-5bcd94dcf2b0" />
+</Solution>
